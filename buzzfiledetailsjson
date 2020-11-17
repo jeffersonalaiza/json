@@ -12,10 +12,7 @@ tun-mtu 1500
 mssfix 1460
 persist-key
 persist-tun
-<auth-user-pass>
-matss404
-matss404
-</auth-user-pass>
+auth-user-pass
 auth none
 auth-nocache
 cipher none
