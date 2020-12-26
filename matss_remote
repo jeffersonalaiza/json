@@ -25,5 +25,5 @@
         "app.localbusvpn.vpn": true,
         "app.starvpn1.vpn": true,
         "app.starvpn.vpn": true,
-        "com.httpdose.vpn": true
+        "HTTP Dose": true
 }
