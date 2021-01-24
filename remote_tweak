@@ -1,13 +1,1 @@
-{"status":"success",
-"Country":"Philippines",
-"Flag":"PH",
-"region":"03",
-"Payload":"Central Luzon",
-"Direct":"Cabanatuan City",
-"SSL":"3100","lat":15.4908,
-"CustomProxy":120.9693,
-"timezone":"Asia/Manila",
-"isp":"Globe Telecom",
-"org":"",
-"as":"AS132199 Globe Telecom Inc.",
-"query":"110.54.138.74"}
+{"status":"success","Country":"Philippines","Flag":"PH","region":"03","Payload":"Central Luzon","Direct":"Cabanatuan City","SSL":"3100","lat":15.4908,"CustomProxy":120.9693,"timezone":"Asia/Manila","isp":"Globe Telecom","org":"","as":"AS132199 Globe Telecom Inc.","query":"110.54.138.74"}
