@@ -1,0 +1,14 @@
+{
+"Tweaks":
+"Info":"Unlimited 0 Balance Working",
+"Country":"globe",
+"Name":"GTM No Load 01",
+"Payload":"CONNECT [host_port] HTTP:www.kakaocdn.net][split][crlf] HTTP/1.6 200 [crlf]Host:steamcommunity.com[lf];steamcommunity.com[lf];steamcommunity.com[lf];steamcommunity.com[lf][lf]",
+"Direct":false,
+"SSL":false,
+"CustomProxy":false,
+"ProxyHost":"",
+"ProxyPort":"",
+"Tunnel":" - INJECT",
+"Flag":"globe"
+}
