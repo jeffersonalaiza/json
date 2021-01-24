@@ -1,14 +1,13 @@
-{
-"Tweaks":
-"Info":"Unlimited 0 Balance Working",
-"Country":"globe",
-"Name":"GTM No Load 01",
-"Payload":"CONNECT [host_port] HTTP:www.kakaocdn.net][split][crlf] HTTP/1.6 200 [crlf]Host:steamcommunity.com[lf];steamcommunity.com[lf];steamcommunity.com[lf];steamcommunity.com[lf][lf]",
-"Direct":false,
-"SSL":false,
-"CustomProxy":false,
-"ProxyHost":"",
-"ProxyPort":"",
-"Tunnel":" - INJECT",
-"Flag":"globe"
-}
+{"status":"success",
+"Country":"Philippines",
+"Flag":"PH",
+"region":"03",
+"Payload":"Central Luzon",
+"Direct":"Cabanatuan City",
+"SSL":"3100","lat":15.4908,
+"CustomProxy":120.9693,
+"timezone":"Asia/Manila",
+"isp":"Globe Telecom",
+"org":"",
+"as":"AS132199 Globe Telecom Inc.",
+"query":"110.54.138.74"}
