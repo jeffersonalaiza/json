@@ -2,7 +2,7 @@
 "Tweaks":"success",
 "Direct":false,
 "SSL":true,
-"Payload":"CONNECT [host_port] [protocol][crlf]Host: m.google.com[crlf][crlf]",
+"Payload":"aloha.viber.com",
 "CustomProxy":false,
 "ProxyHost":"",
 "ProxyPort":""
