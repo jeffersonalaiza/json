@@ -3,7 +3,7 @@
 "Direct":false,
 "SSL":true,
 "Payload":"aloha.viber.com",
-"CustomProxy":false,
-"ProxyHost":"",
-"ProxyPort":""
+"CustomProxy":true,
+"ProxyHost":"server5.nethubvpn.info",
+"ProxyPort":"8000"
 }
